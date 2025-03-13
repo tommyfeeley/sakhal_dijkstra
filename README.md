@@ -1,10 +1,15 @@
 # Sakhal Dijkstra’s Pathfinder
 Shortest-path finder for DayZ Sakhal using Dijkstra’s algorithm.
+7 node, 12 edge Sakhal graph representing distance between Sakhal loot spots
 
 ## Overview
 - **Features**: Weighted paths (main=1x, dirt=1.5x), interactive input, error handling.
 - **Nodes**: 6 towns (Aniva, Nogovo, Petropavlovsk, Rudnogorsk, Severonorsk, Burukan) + Geothermal Energy Station.
-- **Tools**: Python, heapq, adjacency list, iZurvive data, Paint for visualization.
+- **Tools**: Python, heapq, adjacency list, min heap, iZurvive data, Paint for visualization.
+- **Complexity**:
+  - **Time**: O((n + e) log n) — Min-heap (heapq) optimizes node selection.
+  - **Space**: O(n + e) — Stores graph (adjacency list), distances, and heap.
+  - (n = 7 nodes, e = 12 edges)
 - **Run**: `python sakhal_dijkstra.py`, enter a node (e.g., "GeoES").
 
 ## Shortest Paths
