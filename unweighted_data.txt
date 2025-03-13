@@ -1,0 +1,78 @@
+Burukan → Nogovo: 10555m, mixed, 10.5
+
+Burukan → Petro: 8542m, main, 8.5 units
+
+Petro → Nogovo: 5748m, mixed, 5.75 units
+
+Petro → Severonorsk:6520m, mixed, 6.5 units
+
+Nogovo → Aniva: ~2 km, main, 2 units. 5724m, mixed, 5.75 units
+
+Aniva → Severonorsk: ~3.5 km, mix, 4.5 units. 12295m, mixed, 12.3 units
+
+Nogovo → Severonorsk: ~3 km, main, 3 units. 9993m, mixed, 10.0 units
+
+Nogovo → Rudnogorsk: ~1.5 km, main, 1.5 units. 8971m, mixed, 9.0 units
+
+Rudnogorsk → Severonorsk: ~1 km, main, 1 unit. 4680m, main, 4.7 units
+
+
+1107 if dirt road thru bolotnoe 
+1198m on main road thru bolotnoe
+
+
+2353 if dirt road from bolotnoe to nogovo (so we use the dirt)
+2909 if main road from bolotnoe to nogovo
+
+752 nogovo point to other end of city (bottom) 
+749 bottom going thru middle
+
+
+4351 if dirt thru bolotnoe
+4196 if main thru bolotnoe
+
+
+881 2nd path in petro
+
+
+5748
+5955
+
+petro -> severo
+yellow + orange 6520
+green + yellow + orange 6525
+dark red + orange 6955
+
+nogovo -> aniva
+1052
+orange+yellow 12373
+little orange + blue + purple 12295
+little orange + blue + pink + purple 12767
+
+just orange 7406
+first orange + second orange + blue 6943
+
+nogovo -> severo
+yelow+light blue 9993
+yellow + dark blue 1096
+
+nogovo -> rudnogorsk
+dark red 12678
+purple 14096
+first dark red + yellow + last orange 8971
+first dark red + first yellow + mini yellow + light blue + last yellow + last orange 9682
+first dark red + second dark red + dark blue + mini yellow + yellow + last orange 12242
+first dark red + second dark red + third dark red + yellowy-orange 10.8k++
+first dark red + second dark red + third dark red + orange 14184
+first purple + pink + second yellow + mini yellow + rest of yellow + last orange 11318
+
+639
+833
+
+1468
+1763
+
+1401
+
+3947
+2499

@@ -1,0 +1,108 @@
+aniva -> severo
+
+first orange + blue + pink + last purple 764 + 2930 + 2317 + 2431 + 4325 12767
+
+orange + yellow 764 + 10926 + 5286 16976
+orange + blue 764 + 10926 + 6928 18618
+first orange + blue + purple 764 + 2930 + 10739 14433
+first orange + blue + first pink + orangy yellow + little purple + last purple 764 + 2930 + 2317 + 3999 + 888 + 4325 15223
+
+
+aniva->nogovo
+orange 8133
+
+first blue + first yellow + dark red 8885
+first blue + yellow + last two oranges 9139
+first blue + yellow + purple + mini orange 9259
+blue + oranges except first two 9775
+
+
+nogovo->burukan
+first orange + yellow + last orange 11120
+
+orange 11749 
+first orange + second orange + purple 11946
+
+nogovo->rudnogorsk
+first red + second red + yellow + last orange + mini purple 15317
+
+purple 17306
+red 15413
+first purple + pink + second yellow + third yellow + fourth yellow + fifth yellow + last orange + mini purple 15362
+first purple + pink + second yellow + third yellow + light blue + last yellow + last orange + mini purple 15933
+first red + second red + first yellow + second yellow + third yellow + light blue + last yellow + last orange + mini purple 15888
+first red + second red + third red + dark blue + third yellow + fourth yellow + fifth yellow + last orange + mini purple 18822
+first red + second red + third red + fourth red + fifth red + orange + mini purple 19021
+
+nogovo->severonorsk
+yellow + light blue 12907
+
+yellow + dark blue 14549
+
+petro->burukan
+only orange, 8542, all main
+
+petro->severomorsk
+dark red + orange 7598
+
+first dark red + blue + 5th dark red + 6th dark red + orange 7796
+first dark red + blue + 4th dark red + purple + third yellow + fourth yellow + orange 9278
+first dark red + blue + 5th dark red + pink + last yellow + orange 8634
+yellow + orange 7871
+first red + second red + third red + third yellow + fourth yellow + orange 7814
+first red + second red + third red + fourth red + fifth red + pink + last yellow + orange 8436
+light blue routes exist but they just suck, probably over 10000
+
+petro->nogovo
+first orange + blue 6453
+
+first orange + second orange + third orange + pink 7072
+(purple and yellow and last part of orange are hard as fuck to figure out cuz all giga similar but it seems like first orange + blue is so op we don't even need to calculate those values.
+
+Rudnogorsk->Severonorsk 
+just orange, 4680 main
+
+Nogovo -> GeoES:
+dark blue + light blue + orange 3890, mixed, 3.89
+
+dark blue + light blue + yellow 4018
+
+Petro -> GeoES
+orange + light blue 3640, mixed, 3.64
+
+yellow + light blue 3768
+
+Severonorsk -> GeoES
+dark blue + light blue + yellow 9922, mixed, 9.92
+
+purple + light blue + yellow 10622
+purple + light blue + orange 12264
+
+dark blue + light blue + orange 11564
+
+Final Results:
+
+Aniva -> severonorsk: 12767, main, 12.77
+
+Aniva -> Nogovo: 8133, mixed, 8.13
+
+Nogovo -> Burukan: 11120, main, 11.12
+
+Nogovo -> Rudnogorsk: 15317, mixed, 15.32
+
+Nogovo -> Severonorsk: 12907, mixed, 12.91
+
+Petro -> Severomorsk: 7598, mixed, 7.60
+
+Petro -> Nogovo: 6453, main, 6.45
+
+Petro -> Burukan: 8542, main, 8.54
+
+Rudnogorsk -> Severonorsk: 4680, main, 4.68
+
+Nogovo -> GeoES: 3890, mixed, 3.89
+
+Petro -> GeoES: 3640, mixed, 3.64
+
+Severonorsk -> GeoES: 9922, mixed, 9.92
+
