@@ -23,5 +23,5 @@ Shortest-path finder for DayZ Sakhal using Dijkstra’s algorithm.
 - Petro → Burukan: 8.54 units ([map](maps_final/map_route_petro_burukan.png))
 - Rudnogorsk → Severonorsk: 4.68 units ([map](maps_final/map_route_rudnogorsk_severonorsk.png))
 - Nogovo → GeoES: 3.89 units ([map](maps_final/map_route_nogovo_geoes.png))
-- Petro → GeoES: 3.64 units ([map](maps_final/map_route_petro_geoes.png))
-- Severonorsk → GeoES: 9.92 units ([map](maps_final/map_route_severonorsk_geoes.png))
+- Petro → GeoES: 3.64 units ([map](maps_final/map_route_petro_geoES.png))
+- Severonorsk → GeoES: 9.92 units ([map](maps_final/map_route_severonorsk_geoES.png))
