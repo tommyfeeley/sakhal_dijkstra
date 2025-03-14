@@ -12,7 +12,7 @@ Shortest-path finder for DayZ Sakhal using Dijkstra’s algorithm.
   - (n = 7 nodes, e = 12 edges)
 - **Run**: `python sakhal_dijkstra.py`, enter a node (e.g., "GeoES").
 
-## Shortest Paths
+## Shortest Paths (1 unit = 1 km)
 - Aniva → Severonorsk: 12.77 units ([map](/maps_final/map_route_aniva_severomorsk.png))
 - Aniva → Nogovo: 8.13 units ([map](maps_final/map_route_nogovo_aniva.png))
 - Nogovo → Burukan: 11.12 units ([map](maps_final/map_route_nogovo_burukan.png))
